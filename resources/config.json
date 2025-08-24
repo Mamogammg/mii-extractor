@@ -1,0 +1,7 @@
+{
+    "regions": "resources\\regions.json",
+    "prompt_update": true,
+    "theme": "DarkBlue3",
+    "locked-secret": "C:/Users/MARIO/Downloads/locked-secret.bin",
+    "unfixed-info": "C:/Users/MARIO/Downloads/unfixed-info.bin"
+}
